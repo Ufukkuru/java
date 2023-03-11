@@ -1,0 +1,8 @@
+{
+    "userName":"FakeUser",
+    "password": 1234,
+    "serverIp": "127.0.1.22",
+    "serverName": "wecode.org",
+    "isAuth": true,
+    "Ids": [1, 2, 3, 4, 5]
+}
